@@ -1,5 +1,5 @@
 # Site settings
-title: Another Blog
+title: GIRITUZE IRADUKUNDA Mireille
 url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
@@ -13,7 +13,7 @@ avatar: "https:https://github.com/Mmireillle/Mmireillle.github.io/blob/gh-pages/
 profile: About all you can do in life is be who you are.
 #twitter_username: twitter_username
 #github_username:  github_username
-profile_links:
+profile_links: Welcome to my site i hope you will gain something here.
   Email: "mailto:your_mireille.girituze@aims.ac.rw"
   GitHub: "https://github.com/Mmireillle"
   Linkedin: "https://www.linkedin.com/in/girituze-iradukunda-mireille-028456208"
